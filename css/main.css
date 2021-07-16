@@ -557,6 +557,7 @@ header a{
 	} 
 	.header__menu.active {
 		top: 0;
+		height: 100vh;
 	}
 	.header a{
 		font-size: 34px;
