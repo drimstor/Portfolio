@@ -5,7 +5,7 @@ $(document).ready(function() {
    });
    $('li').on('click', function(){
       $('.header__burger,.header__menu').removeClass('active');
-      $('body').toggleClass('lock');
+      $('body').removeClass('lock');
     })
 });
 
