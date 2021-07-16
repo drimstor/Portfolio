@@ -585,7 +585,7 @@ header a{
 	transform: scale(0);
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 600px) {
 	.container{
 		width: 80%;
 		margin: 0 auto;
