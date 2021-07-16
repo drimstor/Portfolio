@@ -587,7 +587,7 @@ header a{
 
 @media screen and (max-width: 575px) {
 	.container{
-		width: 420px;
+		width: 80%;
 		padding: 0 20px;
 	}
 }
