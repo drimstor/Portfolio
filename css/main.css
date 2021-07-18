@@ -21,8 +21,13 @@
 
 html, body{
 	height: 100%;
-	scroll-behavior: smooth;
+	/* scroll-behavior: smooth; */
 	}
+
+	.top {
+		padding-bottom: 1px;
+	}
+
 
 body{
 	margin: 0;
@@ -89,8 +94,6 @@ header a{
 	display: flex;
 	height: 90px;
 	align-items: center;
-	
-	
 	
 }
 
@@ -433,7 +436,6 @@ header a{
 	.container{
 		width: 80%;
 		padding: 0 20px;
-		margin: 0 auto;
 		
 	}
 
@@ -594,7 +596,7 @@ header a{
 	}
 }
 
-@media screen and (max-width: 455px) {
+@media screen and (max-width: 415px) {
 	.contacts__icons {
 		width: 80%
 	}
