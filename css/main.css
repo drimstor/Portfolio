@@ -142,7 +142,7 @@ header a{
 
 .info__title h1{
 	flex: 0 0 15%;
-	
+	font-family: 'Gilroy-Bold' , sans-serif;
 	font-weight: bold;
 	font-size: 47px;
 	line-height: 58px;
