@@ -8,6 +8,7 @@
 		url('../fonts/gilroy-bold.svg#gilroy-bold') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 @font-face {
 	font-family: 'Gilroy-Medium';
@@ -32,7 +33,7 @@ html, body{
 body{
 	margin: 0;
 	padding: 0;
-	font-family: 'Gilroy-Medium', 'Gilroy-Bold' , sans-serif;
+	font-family: 'Gilroy-Medium', 'Montserrat', sans-serif;
 	color: black;
 	font-size: 18px;
 	background-color: white;
@@ -142,7 +143,7 @@ header a{
 
 .info__title h1{
 	flex: 0 0 15%;
-	font-family: 'Gilroy-Bold' , sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	font-size: 47px;
 	line-height: 58px;
