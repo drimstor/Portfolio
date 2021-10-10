@@ -757,9 +757,24 @@ header a{
 	}
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 455px) {
 	.contacts__icons {
 		width: 80%
 	}
-	
+	.nav2 ul li {
+		font-size: 30px;
+		width: 17%;
+    
+	}
+	.nav2 ul li a {
+   
+  		background: white;
+	}
+	.nav2 ul {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.nav2 {
+		margin-top: -40px;
+	}
 }
