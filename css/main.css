@@ -777,4 +777,15 @@ header a{
 	.nav2 {
 		margin-top: -40px;
 	}
-}
+	.nav2 ul li:hover a span::before 
+	{
+		display: none;
+	}
+
+	.nav2 ul li a span::after
+	{
+		display: none;
+	}
+
+
+	}
